@@ -1,6 +1,6 @@
 # Causeway
 
-Causeway is a sync engine purpose-built and benchmarked for sustained low-bandwidth conditions, unlike existing tools which target brief disconnection.
+Causeway is a sync engine purpose-built and benchmarked for sustained low bandwidth conditions, unlike existing tools which target brief disconnection.
 
 ## The Problem
 
